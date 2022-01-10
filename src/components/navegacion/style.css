@@ -1,0 +1,31 @@
+.containerNav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    height: 100px;
+
+
+}
+
+.lista {
+    display: flex;
+
+}
+
+.link {
+    margin: 20px;
+    list-style-type: none;
+}
+
+.link a {
+    color: white;
+    text-decoration: none;
+}
+.link a:hover {
+    font-size:18px;
+    color: tomato;
+
+}
